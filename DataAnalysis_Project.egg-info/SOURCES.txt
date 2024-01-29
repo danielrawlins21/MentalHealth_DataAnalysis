@@ -1,0 +1,6 @@
+README.md
+setup.py
+DataAnalysis_Project.egg-info/PKG-INFO
+DataAnalysis_Project.egg-info/SOURCES.txt
+DataAnalysis_Project.egg-info/dependency_links.txt
+DataAnalysis_Project.egg-info/top_level.txt
